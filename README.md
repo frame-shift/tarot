@@ -12,4 +12,4 @@ Numbers are pushed daily via [Make](https://www.make.com/) every midnight `Ameri
 - `last_updated.txt`: A text file with a timestamp of the most recent time cards were drawn
 
 ## License
-Daily Tarot Card Draw © 2023 by frame-shift is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1).
+Daily Tarot Card Draw © 2023 by frame-shift is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
