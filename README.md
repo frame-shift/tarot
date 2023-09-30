@@ -1,7 +1,7 @@
 # Daily Tarot Card Draw
 This is a dataset of random numbers generated for daily tarot card draws, originally designed for an applet on [Tidbyt](https://github.com/tidbyt/community).
 
-Each number represents an index of potential cards for every tarot card (i.e., 0-77) or just cards from the Major arcana (i.e., 0-21).
+Each number represents an index of potential cards for every tarot card (i.e., 0-77) or just cards from the Major Arcana (i.e., 0-21).
 
 Numbers are pushed daily via [Make](https://www.make.com/) every midnight `America/New_York` time.
 
