@@ -8,10 +8,8 @@ Cards are drawn from two arrays. One array contains integers 0-77 to capture all
 New card draws are pushed here every day at 03:00 `America/New_York` [time](https://www.timeanddate.com/time/zone/usa/new-york).
 
 ## Files
-- `range_all.json`: A JSON file of card draws where the range of cards includes every tarot card
-- `range_major.json`: A JSON file of card draws where the range of cards is limited to the Major Arcana
+- `draws.json`: A JSON containing single and spread draws across all cards or Major Arcana only. Also includes a last updated timestamp.
 - `card_names.csv`: A CSV list of tarot cards and their index values (e.g., if the number drawn is 34, the card is Page of Cups)
-- `last_updated.txt`: A text file with a timestamp of the most recent time new cards were drawn
 
 ## License
 Daily Tarot Card Draw © 2023 by frame-shift is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
