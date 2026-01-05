@@ -10,6 +10,7 @@ New card draws are pushed here every day at 03:00 `America/New_York` [time](http
 ## Files
 - `draws.json`: A JSON containing single and spread draws across all cards or Major Arcana only. Also includes a last updated timestamp.
 - `card_names.csv`: A CSV list of tarot cards and their index values (e.g., if the number drawn is 34, the card is Page of Cups)
+- `card_names_array.txt`: A TXT file of the card names in an array format, maintaining the same order as the CSV; useful for copying into code
 
 ## Magic
 <details>
