@@ -1,1 +1,19 @@
-{"all":{"single":"72","spread":{"card1":"33","card2":"53","card3":"18"}},"major":{"single":"9","spread":{"card1":"21","card2":"6","card3":"8"}},"last_updated":"2026-01-04T08:00:05.215Z"}
+{
+  "all": {
+    "single": "20",
+    "spread": {
+      "card1": "68",
+      "card2": "57",
+      "card3": "61"
+    }
+  },
+  "major": {
+    "single": "21",
+    "spread": {
+      "card1": "16",
+      "card2": "8",
+      "card3": "13"
+    }
+  },
+  "last_updated": "2026-01-05T08:00:06.478Z"
+}
