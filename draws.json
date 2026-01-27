@@ -1,19 +1,19 @@
 {
   "all": {
-    "single": "27",
+    "single": "34",
     "spread": {
-      "card1": "67",
-      "card2": "33",
-      "card3": "20"
+      "card1": "68",
+      "card2": "66",
+      "card3": "50"
     }
   },
   "major": {
-    "single": "19",
+    "single": "17",
     "spread": {
-      "card1": "17",
-      "card2": "2",
-      "card3": "15"
+      "card1": "21",
+      "card2": "6",
+      "card3": "13"
     }
   },
-  "last_updated": "2026-01-26T08:00:08.145Z"
+  "last_updated": "2026-01-27T08:00:07.252Z"
 }
