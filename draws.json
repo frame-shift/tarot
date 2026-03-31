@@ -1,19 +1,26 @@
 {
   "all": {
-    "single": "28",
+    "single": "35",
+    "single_name": "Queen of Cups",
     "spread": {
-      "card1": "36",
-      "card2": "60",
-      "card3": "47"
+      "card1": "67",
+      "card1_name": "Four of Wands",
+      "card2": "24",
+      "card2_name": "Three of Cups",
+      "card3": "50",
+      "card3_name": "Ten of Swords"
     }
   },
   "major": {
-    "single": "15",
+    "single": "10",
     "spread": {
-      "card1": "8",
-      "card2": "6",
-      "card3": "0"
+      "card1": "5",
+      "card1_name": "Temperance",
+      "card2": "8",
+      "card2_name": "The Star",
+      "card3": "19",
+      "card3_name": "The Chariot"
     }
   },
-  "last_updated": "2026-03-30T07:00:08.071Z"
+  "last_updated": "2026-03-31T07:00:04.824Z"
 }
