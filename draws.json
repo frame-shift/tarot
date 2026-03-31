@@ -13,6 +13,7 @@
   },
   "major": {
     "single": "10",
+    "single_name": "The Sun",
     "spread": {
       "card1": "5",
       "card1_name": "Temperance",
