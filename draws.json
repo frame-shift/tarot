@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "3",
-    "single_name": "The Hanged Man",
+    "single": "10",
+    "single_name": "The Sun",
     "spread": {
-      "card1": "54",
-      "card1_name": "Five of Swords",
-      "card2": "31",
-      "card2_name": "Ace of Cups",
-      "card3": "53",
-      "card3_name": "Four of Swords"
+      "card1": "30",
+      "card1_name": "Nine of Cups",
+      "card2": "71",
+      "card2_name": "Eight of Wands",
+      "card3": "9",
+      "card3_name": "The Moon"
     }
   },
   "major": {
-    "single": "6",
-    "single_name":"The Devil",
+    "single": "15",
+    "single_name":"The Empress",
     "spread": {
-      "card1": "8",
-      "card1_name": "The Star",
-      "card2": "0",
-      "card2_name": "The Fool",
-      "card3": "12",
-      "card3_name": "Judgement"
+      "card1": "12",
+      "card1_name": "Judgement",
+      "card2": "20",
+      "card2_name": "Strength",
+      "card3": "6",
+      "card3_name": "The Devil"
     }
   },
-  "last_updated": "2026-04-05T07:00:11.358Z"
+  "last_updated": "2026-04-06T07:00:06.925Z"
 }
