@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "61",
-    "single_name": "Knight of Swords",
+    "single": "13",
+    "single_name": "The World",
     "spread": {
-      "card1": "31",
-      "card1_name": "Ace of Cups",
-      "card2": "51",
-      "card2_name": "Two of Swords",
-      "card3": "5",
-      "card3_name": "Temperance"
+      "card1": "76",
+      "card1_name": "Page of Wands",
+      "card2": "67",
+      "card2_name": "Four of Wands",
+      "card3": "70",
+      "card3_name": "Seven of Wands"
     }
   },
   "major": {
-    "single": "4",
-    "single_name":"Death",
+    "single": "17",
+    "single_name":"The Hierophant",
     "spread": {
-      "card1": "1",
-      "card1_name": "Wheel of Fortune",
-      "card2": "20",
-      "card2_name": "Strength",
-      "card3": "6",
-      "card3_name": "The Devil"
+      "card1": "20",
+      "card1_name": "Strength",
+      "card2": "2",
+      "card2_name": "Justice",
+      "card3": "9",
+      "card3_name": "The Moon"
     }
   },
-  "last_updated": "2026-04-07T07:00:08.695Z"
+  "last_updated": "2026-04-08T07:00:12.757Z"
 }
