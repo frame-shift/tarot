@@ -1,14 +1,14 @@
 {
   "all": {
-    "single": "12",
-    "single_name": "Judgement",
+    "single": "77",
+    "single_name": "Queen of Wands",
     "spread": {
-      "card1": "64",
-      "card1_name": "Ten of Wands",
-      "card2": "2",
-      "card2_name": "Justice",
-      "card3": "41",
-      "card3_name": "Six of Coins"
+      "card1": "77",
+      "card1_name": "Queen of Wands",
+      "card2": "65",
+      "card2_name": "Two of Wands",
+      "card3": "6",
+      "card3_name": "The Devil"
     }
   },
   "major": {
@@ -17,11 +17,11 @@
     "spread": {
       "card1": "8",
       "card1_name": "The Star",
-      "card2": "17",
-      "card2_name": "The Hierophant",
-      "card3": "5",
-      "card3_name": "Temperance"
+      "card2": "12",
+      "card2_name": "Judgement",
+      "card3": "7",
+      "card3_name": "The Tower"
     }
   },
-  "last_updated": "2026-04-09T07:00:06.782Z"
+  "last_updated": "2026-04-10T07:00:05.543Z"
 }
