@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "77",
-    "single_name": "Queen of Wands",
+    "single": "33",
+    "single_name": "Knight of Cups",
     "spread": {
-      "card1": "77",
-      "card1_name": "Queen of Wands",
-      "card2": "65",
-      "card2_name": "Two of Wands",
-      "card3": "6",
-      "card3_name": "The Devil"
+      "card1": "48",
+      "card1_name": "Page of Coins",
+      "card2": "50",
+      "card2_name": "Ten of Swords",
+      "card3": "1",
+      "card3_name": "Wheel of Fortune"
     }
   },
   "major": {
-    "single": "2",
-    "single_name":"Justice",
+    "single": "6",
+    "single_name":"The Devil",
     "spread": {
-      "card1": "8",
-      "card1_name": "The Star",
-      "card2": "12",
-      "card2_name": "Judgement",
-      "card3": "7",
-      "card3_name": "The Tower"
+      "card1": "20",
+      "card1_name": "Strength",
+      "card2": "21",
+      "card2_name": "The Hermit",
+      "card3": "17",
+      "card3_name": "The Hierophant"
     }
   },
-  "last_updated": "2026-04-10T07:00:05.543Z"
+  "last_updated": "2026-04-11T07:00:11.383Z"
 }
