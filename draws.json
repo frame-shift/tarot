@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "18",
-    "single_name": "The Lovers",
+    "single": "14",
+    "single_name": "The High Priestess",
     "spread": {
-      "card1": "46",
-      "card1_name": "King of Coins",
-      "card2": "54",
-      "card2_name": "Five of Swords",
-      "card3": "70",
-      "card3_name": "Seven of Wands"
+      "card1": "14",
+      "card1_name": "The High Priestess",
+      "card2": "29",
+      "card2_name": "Eight of Cups",
+      "card3": "42",
+      "card3_name": "Seven of Coins"
     }
   },
   "major": {
-    "single": "15",
-    "single_name":"The Empress",
+    "single": "20",
+    "single_name":"Strength",
     "spread": {
-      "card1": "8",
-      "card1_name": "The Star",
-      "card2": "18",
-      "card2_name": "The Lovers",
-      "card3": "2",
-      "card3_name": "Justice"
+      "card1": "13",
+      "card1_name": "The World",
+      "card2": "21",
+      "card2_name": "The Hermit",
+      "card3": "16",
+      "card3_name": "The Emperor"
     }
   },
-  "last_updated": "2026-04-16T07:00:09.146Z"
+  "last_updated": "2026-04-17T07:00:08.112Z"
 }
