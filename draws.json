@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "14",
-    "single_name": "The High Priestess",
+    "single": "20",
+    "single_name": "Strength",
     "spread": {
-      "card1": "14",
-      "card1_name": "The High Priestess",
-      "card2": "29",
-      "card2_name": "Eight of Cups",
-      "card3": "42",
-      "card3_name": "Seven of Coins"
+      "card1": "50",
+      "card1_name": "Ten of Swords",
+      "card2": "72",
+      "card2_name": "Nine of Wands",
+      "card3": "74",
+      "card3_name": "King of Wands"
     }
   },
   "major": {
-    "single": "20",
-    "single_name":"Strength",
+    "single": "19",
+    "single_name":"The Chariot",
     "spread": {
-      "card1": "13",
-      "card1_name": "The World",
-      "card2": "21",
-      "card2_name": "The Hermit",
-      "card3": "16",
-      "card3_name": "The Emperor"
+      "card1": "5",
+      "card1_name": "Temperance",
+      "card2": "1",
+      "card2_name": "Wheel of Fortune",
+      "card3": "15",
+      "card3_name": "The Empress"
     }
   },
-  "last_updated": "2026-04-17T07:00:08.112Z"
+  "last_updated": "2026-04-18T07:00:08.875Z"
 }
