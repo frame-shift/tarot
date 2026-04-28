@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "43",
-    "single_name": "Eight of Coins",
+    "single": "71",
+    "single_name": "Eight of Wands",
     "spread": {
-      "card1": "48",
-      "card1_name": "Page of Coins",
-      "card2": "30",
-      "card2_name": "Nine of Cups",
-      "card3": "49",
-      "card3_name": "Queen of Coins"
+      "card1": "28",
+      "card1_name": "Seven of Cups",
+      "card2": "70",
+      "card2_name": "Seven of Wands",
+      "card3": "37",
+      "card3_name": "Two of Coins"
     }
   },
   "major": {
-    "single": "18",
-    "single_name":"The Lovers",
+    "single": "19",
+    "single_name":"The Chariot",
     "spread": {
-      "card1": "21",
-      "card1_name": "The Hermit",
-      "card2": "18",
-      "card2_name": "The Lovers",
-      "card3": "20",
-      "card3_name": "Strength"
+      "card1": "5",
+      "card1_name": "Temperance",
+      "card2": "2",
+      "card2_name": "Justice",
+      "card3": "19",
+      "card3_name": "The Chariot"
     }
   },
-  "last_updated": "2026-04-27T07:00:11.706Z"
+  "last_updated": "2026-04-28T07:00:09.144Z"
 }
