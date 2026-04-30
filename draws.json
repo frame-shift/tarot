@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "52",
-    "single_name": "Three of Swords",
+    "single": "42",
+    "single_name": "Seven of Coins",
     "spread": {
-      "card1": "67",
-      "card1_name": "Four of Wands",
-      "card2": "71",
-      "card2_name": "Eight of Wands",
+      "card1": "15",
+      "card1_name": "The Empress",
+      "card2": "49",
+      "card2_name": "Queen of Coins",
+      "card3": "19",
+      "card3_name": "The Chariot"
+    }
+  },
+  "major": {
+    "single": "19",
+    "single_name":"The Chariot",
+    "spread": {
+      "card1": "6",
+      "card1_name": "The Devil",
+      "card2": "1",
+      "card2_name": "Wheel of Fortune",
       "card3": "10",
       "card3_name": "The Sun"
     }
   },
-  "major": {
-    "single": "17",
-    "single_name":"The Hierophant",
-    "spread": {
-      "card1": "13",
-      "card1_name": "The World",
-      "card2": "17",
-      "card2_name": "The Hierophant",
-      "card3": "0",
-      "card3_name": "The Fool"
-    }
-  },
-  "last_updated": "2026-04-29T07:00:09.255Z"
+  "last_updated": "2026-04-30T07:00:08.338Z"
 }
