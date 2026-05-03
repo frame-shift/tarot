@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "70",
-    "single_name": "Seven of Wands",
+    "single": "10",
+    "single_name": "The Sun",
     "spread": {
-      "card1": "64",
-      "card1_name": "Ten of Wands",
-      "card2": "39",
-      "card2_name": "Four of Coins",
-      "card3": "60",
-      "card3_name": "King of Swords"
+      "card1": "15",
+      "card1_name": "The Empress",
+      "card2": "38",
+      "card2_name": "Three of Coins",
+      "card3": "75",
+      "card3_name": "Knight of Wands"
     }
   },
   "major": {
-    "single": "12",
-    "single_name":"Judgement",
+    "single": "1",
+    "single_name":"Wheel of Fortune",
     "spread": {
-      "card1": "6",
-      "card1_name": "The Devil",
-      "card2": "1",
-      "card2_name": "Wheel of Fortune",
-      "card3": "4",
-      "card3_name": "Death"
+      "card1": "12",
+      "card1_name": "Judgement",
+      "card2": "15",
+      "card2_name": "The Empress",
+      "card3": "0",
+      "card3_name": "The Fool"
     }
   },
-  "last_updated": "2026-05-02T07:00:14.236Z"
+  "last_updated": "2026-05-03T07:00:02.323Z"
 }
