@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "14",
-    "single_name": "The High Priestess",
+    "single": "50",
+    "single_name": "Ten of Swords",
     "spread": {
-      "card1": "38",
-      "card1_name": "Three of Coins",
-      "card2": "9",
-      "card2_name": "The Moon",
-      "card3": "46",
-      "card3_name": "King of Coins"
+      "card1": "47",
+      "card1_name": "Knight of Coins",
+      "card2": "4",
+      "card2_name": "Death",
+      "card3": "33",
+      "card3_name": "Knight of Cups"
     }
   },
   "major": {
-    "single": "9",
-    "single_name":"The Moon",
+    "single": "10",
+    "single_name":"The Sun",
     "spread": {
-      "card1": "13",
-      "card1_name": "The World",
-      "card2": "5",
-      "card2_name": "Temperance",
-      "card3": "10",
-      "card3_name": "The Sun"
+      "card1": "15",
+      "card1_name": "The Empress",
+      "card2": "16",
+      "card2_name": "The Emperor",
+      "card3": "14",
+      "card3_name": "The High Priestess"
     }
   },
-  "last_updated": "2026-05-05T07:00:10.666Z"
+  "last_updated": "2026-05-06T07:00:09.826Z"
 }
