@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "50",
-    "single_name": "Ten of Swords",
+    "single": "71",
+    "single_name": "Eight of Wands",
     "spread": {
-      "card1": "47",
-      "card1_name": "Knight of Coins",
-      "card2": "4",
-      "card2_name": "Death",
-      "card3": "33",
-      "card3_name": "Knight of Cups"
+      "card1": "25",
+      "card1_name": "Four of Cups",
+      "card2": "8",
+      "card2_name": "The Star",
+      "card3": "52",
+      "card3_name": "Three of Swords"
     }
   },
   "major": {
-    "single": "10",
-    "single_name":"The Sun",
+    "single": "7",
+    "single_name":"The Tower",
     "spread": {
-      "card1": "15",
-      "card1_name": "The Empress",
-      "card2": "16",
-      "card2_name": "The Emperor",
-      "card3": "14",
-      "card3_name": "The High Priestess"
+      "card1": "17",
+      "card1_name": "The Hierophant",
+      "card2": "15",
+      "card2_name": "The Empress",
+      "card3": "19",
+      "card3_name": "The Chariot"
     }
   },
-  "last_updated": "2026-05-06T07:00:09.826Z"
+  "last_updated": "2026-05-07T07:00:09.419Z"
 }
