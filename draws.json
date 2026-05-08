@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "71",
-    "single_name": "Eight of Wands",
+    "single": "3",
+    "single_name": "The Hanged Man",
     "spread": {
-      "card1": "25",
-      "card1_name": "Four of Cups",
-      "card2": "8",
-      "card2_name": "The Star",
-      "card3": "52",
-      "card3_name": "Three of Swords"
+      "card1": "33",
+      "card1_name": "Knight of Cups",
+      "card2": "9",
+      "card2_name": "The Moon",
+      "card3": "62",
+      "card3_name": "Page of Swords"
     }
   },
   "major": {
-    "single": "7",
-    "single_name":"The Tower",
+    "single": "14",
+    "single_name":"The High Priestess",
     "spread": {
-      "card1": "17",
-      "card1_name": "The Hierophant",
-      "card2": "15",
-      "card2_name": "The Empress",
-      "card3": "19",
-      "card3_name": "The Chariot"
+      "card1": "8",
+      "card1_name": "The Star",
+      "card2": "9",
+      "card2_name": "The Moon",
+      "card3": "1",
+      "card3_name": "Wheel of Fortune"
     }
   },
-  "last_updated": "2026-05-07T07:00:09.419Z"
+  "last_updated": "2026-05-08T07:00:05.046Z"
 }
