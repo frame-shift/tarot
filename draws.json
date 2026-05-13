@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "10",
-    "single_name": "The Sun",
+    "single": "16",
+    "single_name": "The Emperor",
     "spread": {
-      "card1": "11",
-      "card1_name": "The Magician",
-      "card2": "40",
-      "card2_name": "Five of Coins",
-      "card3": "5",
-      "card3_name": "Temperance"
-    }
-  },
-  "major": {
-    "single": "13",
-    "single_name":"The World",
-    "spread": {
-      "card1": "19",
-      "card1_name": "The Chariot",
-      "card2": "18",
-      "card2_name": "The Lovers",
+      "card1": "45",
+      "card1_name": "Ace of Coins",
+      "card2": "65",
+      "card2_name": "Two of Wands",
       "card3": "12",
       "card3_name": "Judgement"
     }
   },
-  "last_updated": "2026-05-12T07:00:08.697Z"
+  "major": {
+    "single": "15",
+    "single_name":"The Empress",
+    "spread": {
+      "card1": "5",
+      "card1_name": "Temperance",
+      "card2": "7",
+      "card2_name": "The Tower",
+      "card3": "11",
+      "card3_name": "The Magician"
+    }
+  },
+  "last_updated": "2026-05-13T07:00:12.143Z"
 }
