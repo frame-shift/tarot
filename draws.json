@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "16",
-    "single_name": "The Emperor",
+    "single": "73",
+    "single_name": "Ace of Wands",
     "spread": {
-      "card1": "45",
-      "card1_name": "Ace of Coins",
-      "card2": "65",
-      "card2_name": "Two of Wands",
-      "card3": "12",
-      "card3_name": "Judgement"
+      "card1": "48",
+      "card1_name": "Page of Coins",
+      "card2": "31",
+      "card2_name": "Ace of Cups",
+      "card3": "60",
+      "card3_name": "King of Swords"
     }
   },
   "major": {
-    "single": "15",
-    "single_name":"The Empress",
+    "single": "17",
+    "single_name":"The Hierophant",
     "spread": {
-      "card1": "5",
-      "card1_name": "Temperance",
-      "card2": "7",
-      "card2_name": "The Tower",
-      "card3": "11",
-      "card3_name": "The Magician"
+      "card1": "7",
+      "card1_name": "The Tower",
+      "card2": "6",
+      "card2_name": "The Devil",
+      "card3": "1",
+      "card3_name": "Wheel of Fortune"
     }
   },
-  "last_updated": "2026-05-13T07:00:12.143Z"
+  "last_updated": "2026-05-14T07:00:08.256Z"
 }
