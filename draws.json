@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "64",
-    "single_name": "Ten of Wands",
+    "single": "5",
+    "single_name": "Temperance",
     "spread": {
-      "card1": "11",
-      "card1_name": "The Magician",
-      "card2": "17",
-      "card2_name": "The Hierophant",
-      "card3": "27",
-      "card3_name": "Six of Cups"
+      "card1": "65",
+      "card1_name": "Two of Wands",
+      "card2": "49",
+      "card2_name": "Queen of Coins",
+      "card3": "59",
+      "card3_name": "Ace of Swords"
     }
   },
   "major": {
-    "single": "16",
-    "single_name":"The Emperor",
+    "single": "7",
+    "single_name":"The Tower",
     "spread": {
-      "card1": "16",
-      "card1_name": "The Emperor",
-      "card2": "17",
-      "card2_name": "The Hierophant",
-      "card3": "18",
-      "card3_name": "The Lovers"
+      "card1": "11",
+      "card1_name": "The Magician",
+      "card2": "1",
+      "card2_name": "Wheel of Fortune",
+      "card3": "8",
+      "card3_name": "The Star"
     }
   },
-  "last_updated": "2026-05-19T07:00:09.331Z"
+  "last_updated": "2026-05-20T07:00:07.314Z"
 }
