@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "77",
-    "single_name": "Queen of Wands",
+    "single": "63",
+    "single_name": "Queen of Swords",
     "spread": {
-      "card1": "8",
-      "card1_name": "The Star",
-      "card2": "68",
-      "card2_name": "Five of Wands",
-      "card3": "6",
-      "card3_name": "The Devil"
+      "card1": "42",
+      "card1_name": "Seven of Coins",
+      "card2": "41",
+      "card2_name": "Six of Coins",
+      "card3": "10",
+      "card3_name": "The Sun"
     }
   },
   "major": {
-    "single": "8",
-    "single_name":"The Star",
+    "single": "9",
+    "single_name":"The Moon",
     "spread": {
-      "card1": "11",
-      "card1_name": "The Magician",
-      "card2": "20",
-      "card2_name": "Strength",
-      "card3": "5",
-      "card3_name": "Temperance"
+      "card1": "15",
+      "card1_name": "The Empress",
+      "card2": "16",
+      "card2_name": "The Emperor",
+      "card3": "12",
+      "card3_name": "Judgement"
     }
   },
-  "last_updated": "2026-05-23T07:00:12.958Z"
+  "last_updated": "2026-05-24T07:00:10.781Z"
 }
