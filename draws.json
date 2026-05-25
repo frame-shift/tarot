@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "63",
-    "single_name": "Queen of Swords",
+    "single": "3",
+    "single_name": "The Hanged Man",
     "spread": {
-      "card1": "42",
-      "card1_name": "Seven of Coins",
-      "card2": "41",
-      "card2_name": "Six of Coins",
-      "card3": "10",
-      "card3_name": "The Sun"
+      "card1": "23",
+      "card1_name": "Two of Cups",
+      "card2": "61",
+      "card2_name": "Knight of Swords",
+      "card3": "2",
+      "card3_name": "Justice"
     }
   },
   "major": {
-    "single": "9",
-    "single_name":"The Moon",
+    "single": "14",
+    "single_name":"The High Priestess",
     "spread": {
-      "card1": "15",
-      "card1_name": "The Empress",
-      "card2": "16",
-      "card2_name": "The Emperor",
-      "card3": "12",
-      "card3_name": "Judgement"
+      "card1": "7",
+      "card1_name": "The Tower",
+      "card2": "13",
+      "card2_name": "The World",
+      "card3": "16",
+      "card3_name": "The Emperor"
     }
   },
-  "last_updated": "2026-05-24T07:00:10.781Z"
+  "last_updated": "2026-05-25T07:00:13.205Z"
 }
