@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "3",
-    "single_name": "The Hanged Man",
+    "single": "62",
+    "single_name": "Page of Swords",
     "spread": {
-      "card1": "23",
-      "card1_name": "Two of Cups",
-      "card2": "61",
-      "card2_name": "Knight of Swords",
-      "card3": "2",
-      "card3_name": "Justice"
+      "card1": "39",
+      "card1_name": "Four of Coins",
+      "card2": "33",
+      "card2_name": "Knight of Cups",
+      "card3": "20",
+      "card3_name": "Strength"
     }
   },
   "major": {
-    "single": "14",
-    "single_name":"The High Priestess",
+    "single": "16",
+    "single_name":"The Emperor",
     "spread": {
-      "card1": "7",
-      "card1_name": "The Tower",
-      "card2": "13",
-      "card2_name": "The World",
-      "card3": "16",
-      "card3_name": "The Emperor"
+      "card1": "3",
+      "card1_name": "The Hanged Man",
+      "card2": "11",
+      "card2_name": "The Magician",
+      "card3": "6",
+      "card3_name": "The Devil"
     }
   },
-  "last_updated": "2026-05-25T07:00:13.205Z"
+  "last_updated": "2026-05-26T07:00:11.117Z"
 }
