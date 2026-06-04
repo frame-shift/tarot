@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "73",
-    "single_name": "Ace of Wands",
+    "single": "36",
+    "single_name": "Ten of Coins",
     "spread": {
-      "card1": "56",
-      "card1_name": "Seven of Swords",
-      "card2": "40",
-      "card2_name": "Five of Coins",
-      "card3": "22",
-      "card3_name": "Ten of Cups"
+      "card1": "1",
+      "card1_name": "Wheel of Fortune",
+      "card2": "2",
+      "card2_name": "Justice",
+      "card3": "37",
+      "card3_name": "Two of Coins"
     }
   },
   "major": {
-    "single": "4",
-    "single_name":"Death",
+    "single": "2",
+    "single_name":"Justice",
     "spread": {
-      "card1": "15",
-      "card1_name": "The Empress",
-      "card2": "13",
-      "card2_name": "The World",
-      "card3": "4",
-      "card3_name": "Death"
+      "card1": "21",
+      "card1_name": "The Hermit",
+      "card2": "20",
+      "card2_name": "Strength",
+      "card3": "19",
+      "card3_name": "The Chariot"
     }
   },
-  "last_updated": "2026-06-03T07:00:13.362Z"
+  "last_updated": "2026-06-04T07:00:06.614Z"
 }
