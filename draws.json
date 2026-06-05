@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "36",
-    "single_name": "Ten of Coins",
+    "single": "16",
+    "single_name": "The Emperor",
     "spread": {
-      "card1": "1",
-      "card1_name": "Wheel of Fortune",
-      "card2": "2",
-      "card2_name": "Justice",
-      "card3": "37",
-      "card3_name": "Two of Coins"
+      "card1": "14",
+      "card1_name": "The High Priestess",
+      "card2": "49",
+      "card2_name": "Queen of Coins",
+      "card3": "27",
+      "card3_name": "Six of Cups"
     }
   },
   "major": {
-    "single": "2",
-    "single_name":"Justice",
+    "single": "21",
+    "single_name":"The Hermit",
     "spread": {
-      "card1": "21",
-      "card1_name": "The Hermit",
-      "card2": "20",
-      "card2_name": "Strength",
-      "card3": "19",
-      "card3_name": "The Chariot"
+      "card1": "7",
+      "card1_name": "The Tower",
+      "card2": "15",
+      "card2_name": "The Empress",
+      "card3": "20",
+      "card3_name": "Strength"
     }
   },
-  "last_updated": "2026-06-04T07:00:06.614Z"
+  "last_updated": "2026-06-05T07:00:14.100Z"
 }
