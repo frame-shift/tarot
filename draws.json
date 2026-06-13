@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "28",
-    "single_name": "Seven of Cups",
+    "single": "7",
+    "single_name": "The Tower",
     "spread": {
-      "card1": "57",
-      "card1_name": "Eight of Swords",
-      "card2": "38",
-      "card2_name": "Three of Coins",
-      "card3": "31",
-      "card3_name": "Ace of Cups"
+      "card1": "49",
+      "card1_name": "Queen of Coins",
+      "card2": "71",
+      "card2_name": "Eight of Wands",
+      "card3": "28",
+      "card3_name": "Seven of Cups"
     }
   },
   "major": {
-    "single": "0",
-    "single_name":"The Fool",
+    "single": "5",
+    "single_name":"Temperance",
     "spread": {
-      "card1": "6",
-      "card1_name": "The Devil",
-      "card2": "3",
-      "card2_name": "The Hanged Man",
-      "card3": "12",
-      "card3_name": "Judgement"
+      "card1": "20",
+      "card1_name": "Strength",
+      "card2": "14",
+      "card2_name": "The High Priestess",
+      "card3": "16",
+      "card3_name": "The Emperor"
     }
   },
-  "last_updated": "2026-06-12T07:00:01.362Z"
+  "last_updated": "2026-06-13T07:00:10.832Z"
 }
