@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "54",
-    "single_name": "Five of Swords",
+    "single": "48",
+    "single_name": "Page of Coins",
     "spread": {
-      "card1": "57",
-      "card1_name": "Eight of Swords",
-      "card2": "39",
-      "card2_name": "Four of Coins",
-      "card3": "64",
-      "card3_name": "Ten of Wands"
+      "card1": "16",
+      "card1_name": "The Emperor",
+      "card2": "22",
+      "card2_name": "Ten of Cups",
+      "card3": "46",
+      "card3_name": "King of Coins"
     }
   },
   "major": {
-    "single": "11",
-    "single_name":"The Magician",
+    "single": "7",
+    "single_name":"The Tower",
     "spread": {
-      "card1": "17",
-      "card1_name": "The Hierophant",
-      "card2": "2",
-      "card2_name": "Justice",
-      "card3": "4",
-      "card3_name": "Death"
+      "card1": "21",
+      "card1_name": "The Hermit",
+      "card2": "7",
+      "card2_name": "The Tower",
+      "card3": "16",
+      "card3_name": "The Emperor"
     }
   },
-  "last_updated": "2026-06-14T07:00:13.021Z"
+  "last_updated": "2026-06-15T07:00:13.728Z"
 }
