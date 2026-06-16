@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "48",
-    "single_name": "Page of Coins",
+    "single": "6",
+    "single_name": "The Devil",
     "spread": {
-      "card1": "16",
-      "card1_name": "The Emperor",
-      "card2": "22",
-      "card2_name": "Ten of Cups",
-      "card3": "46",
-      "card3_name": "King of Coins"
+      "card1": "64",
+      "card1_name": "Ten of Wands",
+      "card2": "61",
+      "card2_name": "Knight of Swords",
+      "card3": "12",
+      "card3_name": "Judgement"
     }
   },
   "major": {
-    "single": "7",
-    "single_name":"The Tower",
+    "single": "11",
+    "single_name":"The Magician",
     "spread": {
-      "card1": "21",
-      "card1_name": "The Hermit",
-      "card2": "7",
-      "card2_name": "The Tower",
-      "card3": "16",
-      "card3_name": "The Emperor"
+      "card1": "9",
+      "card1_name": "The Moon",
+      "card2": "16",
+      "card2_name": "The Emperor",
+      "card3": "21",
+      "card3_name": "The Hermit"
     }
   },
-  "last_updated": "2026-06-15T07:00:13.728Z"
+  "last_updated": "2026-06-16T07:00:10.750Z"
 }
