@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "76",
-    "single_name": "Page of Wands",
+    "single": "44",
+    "single_name": "Nine of Coins",
     "spread": {
-      "card1": "76",
-      "card1_name": "Page of Wands",
-      "card2": "32",
-      "card2_name": "King of Cups",
-      "card3": "7",
-      "card3_name": "The Tower"
+      "card1": "1",
+      "card1_name": "Wheel of Fortune",
+      "card2": "72",
+      "card2_name": "Nine of Wands",
+      "card3": "5",
+      "card3_name": "Temperance"
     }
   },
   "major": {
-    "single": "18",
-    "single_name":"The Lovers",
+    "single": "11",
+    "single_name":"The Magician",
     "spread": {
       "card1": "13",
       "card1_name": "The World",
-      "card2": "19",
-      "card2_name": "The Chariot",
-      "card3": "12",
-      "card3_name": "Judgement"
+      "card2": "0",
+      "card2_name": "The Fool",
+      "card3": "11",
+      "card3_name": "The Magician"
     }
   },
-  "last_updated": "2026-06-19T07:00:10.753Z"
+  "last_updated": "2026-06-20T07:00:02.327Z"
 }
