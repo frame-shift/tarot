@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "2",
-    "single_name": "Justice",
+    "single": "43",
+    "single_name": "Eight of Coins",
     "spread": {
-      "card1": "0",
-      "card1_name": "The Fool",
-      "card2": "62",
-      "card2_name": "Page of Swords",
-      "card3": "53",
-      "card3_name": "Four of Swords"
+      "card1": "17",
+      "card1_name": "The Hierophant",
+      "card2": "10",
+      "card2_name": "The Sun",
+      "card3": "16",
+      "card3_name": "The Emperor"
     }
   },
   "major": {
-    "single": "5",
-    "single_name":"Temperance",
+    "single": "6",
+    "single_name":"The Devil",
     "spread": {
-      "card1": "15",
-      "card1_name": "The Empress",
-      "card2": "10",
-      "card2_name": "The Sun",
-      "card3": "12",
-      "card3_name": "Judgement"
+      "card1": "12",
+      "card1_name": "Judgement",
+      "card2": "0",
+      "card2_name": "The Fool",
+      "card3": "13",
+      "card3_name": "The World"
     }
   },
-  "last_updated": "2026-06-22T07:00:15.827Z"
+  "last_updated": "2026-06-23T07:00:08.087Z"
 }
