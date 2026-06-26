@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "48",
-    "single_name": "Page of Coins",
+    "single": "44",
+    "single_name": "Nine of Coins",
     "spread": {
-      "card1": "73",
-      "card1_name": "Ace of Wands",
-      "card2": "7",
-      "card2_name": "The Tower",
-      "card3": "41",
-      "card3_name": "Six of Coins"
+      "card1": "58",
+      "card1_name": "Nine of Swords",
+      "card2": "57",
+      "card2_name": "Eight of Swords",
+      "card3": "48",
+      "card3_name": "Page of Coins"
     }
   },
   "major": {
-    "single": "12",
-    "single_name":"Judgement",
+    "single": "18",
+    "single_name":"The Lovers",
     "spread": {
-      "card1": "17",
-      "card1_name": "The Hierophant",
-      "card2": "8",
-      "card2_name": "The Star",
-      "card3": "20",
-      "card3_name": "Strength"
+      "card1": "10",
+      "card1_name": "The Sun",
+      "card2": "6",
+      "card2_name": "The Devil",
+      "card3": "15",
+      "card3_name": "The Empress"
     }
   },
-  "last_updated": "2026-06-25T07:00:06.196Z"
+  "last_updated": "2026-06-26T07:00:09.119Z"
 }
