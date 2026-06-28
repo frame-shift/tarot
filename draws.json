@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "24",
-    "single_name": "Three of Cups",
+    "single": "42",
+    "single_name": "Seven of Coins",
     "spread": {
-      "card1": "50",
-      "card1_name": "Ten of Swords",
-      "card2": "9",
-      "card2_name": "The Moon",
-      "card3": "4",
-      "card3_name": "Death"
+      "card1": "33",
+      "card1_name": "Knight of Cups",
+      "card2": "30",
+      "card2_name": "Nine of Cups",
+      "card3": "48",
+      "card3_name": "Page of Coins"
     }
   },
   "major": {
-    "single": "4",
-    "single_name":"Death",
+    "single": "1",
+    "single_name":"Wheel of Fortune",
     "spread": {
-      "card1": "15",
-      "card1_name": "The Empress",
-      "card2": "5",
-      "card2_name": "Temperance",
-      "card3": "9",
-      "card3_name": "The Moon"
+      "card1": "0",
+      "card1_name": "The Fool",
+      "card2": "10",
+      "card2_name": "The Sun",
+      "card3": "19",
+      "card3_name": "The Chariot"
     }
   },
-  "last_updated": "2026-06-27T07:00:11.863Z"
+  "last_updated": "2026-06-28T07:00:13.989Z"
 }
