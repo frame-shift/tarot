@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "13",
-    "single_name": "The World",
+    "single": "71",
+    "single_name": "Eight of Wands",
     "spread": {
-      "card1": "36",
-      "card1_name": "Ten of Coins",
-      "card2": "48",
-      "card2_name": "Page of Coins",
-      "card3": "28",
-      "card3_name": "Seven of Cups"
+      "card1": "77",
+      "card1_name": "Queen of Wands",
+      "card2": "11",
+      "card2_name": "The Magician",
+      "card3": "58",
+      "card3_name": "Nine of Swords"
     }
   },
   "major": {
-    "single": "12",
-    "single_name":"Judgement",
+    "single": "5",
+    "single_name":"Temperance",
     "spread": {
-      "card1": "2",
-      "card1_name": "Justice",
-      "card2": "7",
-      "card2_name": "The Tower",
-      "card3": "16",
-      "card3_name": "The Emperor"
+      "card1": "7",
+      "card1_name": "The Tower",
+      "card2": "4",
+      "card2_name": "Death",
+      "card3": "18",
+      "card3_name": "The Lovers"
     }
   },
-  "last_updated": "2026-06-30T07:00:16.953Z"
+  "last_updated": "2026-07-01T07:00:19.339Z"
 }
