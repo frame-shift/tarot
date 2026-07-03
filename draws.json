@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "54",
-    "single_name": "Five of Swords",
+    "single": "69",
+    "single_name": "Six of Wands",
     "spread": {
-      "card1": "53",
-      "card1_name": "Four of Swords",
-      "card2": "49",
-      "card2_name": "Queen of Coins",
-      "card3": "33",
-      "card3_name": "Knight of Cups"
+      "card1": "19",
+      "card1_name": "The Chariot",
+      "card2": "6",
+      "card2_name": "The Devil",
+      "card3": "10",
+      "card3_name": "The Sun"
     }
   },
   "major": {
-    "single": "12",
-    "single_name":"Judgement",
+    "single": "5",
+    "single_name":"Temperance",
     "spread": {
-      "card1": "1",
-      "card1_name": "Wheel of Fortune",
-      "card2": "10",
-      "card2_name": "The Sun",
+      "card1": "17",
+      "card1_name": "The Hierophant",
+      "card2": "13",
+      "card2_name": "The World",
       "card3": "5",
       "card3_name": "Temperance"
     }
   },
-  "last_updated": "2026-07-02T07:00:12.179Z"
+  "last_updated": "2026-07-03T07:00:10.764Z"
 }
