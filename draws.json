@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "31",
-    "single_name": "Ace of Cups",
+    "single": "63",
+    "single_name": "Queen of Swords",
     "spread": {
-      "card1": "20",
-      "card1_name": "Strength",
-      "card2": "66",
-      "card2_name": "Three of Wands",
-      "card3": "43",
-      "card3_name": "Eight of Coins"
+      "card1": "52",
+      "card1_name": "Three of Swords",
+      "card2": "67",
+      "card2_name": "Four of Wands",
+      "card3": "28",
+      "card3_name": "Seven of Cups"
     }
   },
   "major": {
-    "single": "5",
-    "single_name":"Temperance",
+    "single": "21",
+    "single_name":"The Hermit",
     "spread": {
-      "card1": "17",
-      "card1_name": "The Hierophant",
-      "card2": "6",
-      "card2_name": "The Devil",
-      "card3": "11",
-      "card3_name": "The Magician"
+      "card1": "9",
+      "card1_name": "The Moon",
+      "card2": "0",
+      "card2_name": "The Fool",
+      "card3": "21",
+      "card3_name": "The Hermit"
     }
   },
-  "last_updated": "2026-07-21T07:00:09.613Z"
+  "last_updated": "2026-07-22T07:00:12.014Z"
 }
