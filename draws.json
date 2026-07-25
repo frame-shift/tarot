@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "73",
-    "single_name": "Ace of Wands",
+    "single": "57",
+    "single_name": "Eight of Swords",
     "spread": {
-      "card1": "11",
-      "card1_name": "The Magician",
-      "card2": "26",
-      "card2_name": "Five of Cups",
-      "card3": "41",
-      "card3_name": "Six of Coins"
+      "card1": "72",
+      "card1_name": "Nine of Wands",
+      "card2": "38",
+      "card2_name": "Three of Coins",
+      "card3": "65",
+      "card3_name": "Two of Wands"
     }
   },
   "major": {
-    "single": "11",
-    "single_name":"The Magician",
+    "single": "20",
+    "single_name":"Strength",
     "spread": {
-      "card1": "18",
-      "card1_name": "The Lovers",
-      "card2": "2",
-      "card2_name": "Justice",
-      "card3": "12",
-      "card3_name": "Judgement"
+      "card1": "1",
+      "card1_name": "Wheel of Fortune",
+      "card2": "3",
+      "card2_name": "The Hanged Man",
+      "card3": "18",
+      "card3_name": "The Lovers"
     }
   },
-  "last_updated": "2026-07-24T07:00:08.308Z"
+  "last_updated": "2026-07-25T07:00:13.904Z"
 }
