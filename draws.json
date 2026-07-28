@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "66",
-    "single_name": "Three of Wands",
+    "single": "30",
+    "single_name": "Nine of Cups",
     "spread": {
-      "card1": "12",
-      "card1_name": "Judgement",
-      "card2": "64",
-      "card2_name": "Ten of Wands",
-      "card3": "66",
-      "card3_name": "Three of Wands"
+      "card1": "49",
+      "card1_name": "Queen of Coins",
+      "card2": "45",
+      "card2_name": "Ace of Coins",
+      "card3": "67",
+      "card3_name": "Four of Wands"
     }
   },
   "major": {
     "single": "17",
     "single_name":"The Hierophant",
     "spread": {
-      "card1": "20",
-      "card1_name": "Strength",
-      "card2": "14",
-      "card2_name": "The High Priestess",
-      "card3": "2",
-      "card3_name": "Justice"
+      "card1": "19",
+      "card1_name": "The Chariot",
+      "card2": "5",
+      "card2_name": "Temperance",
+      "card3": "10",
+      "card3_name": "The Sun"
     }
   },
-  "last_updated": "2026-07-27T07:00:10.246Z"
+  "last_updated": "2026-07-28T07:00:05.008Z"
 }
