@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "64",
-    "single_name": "Ten of Wands",
+    "single": "5",
+    "single_name": "Temperance",
     "spread": {
-      "card1": "20",
-      "card1_name": "Strength",
-      "card2": "6",
-      "card2_name": "The Devil",
-      "card3": "37",
-      "card3_name": "Two of Coins"
+      "card1": "76",
+      "card1_name": "Page of Wands",
+      "card2": "42",
+      "card2_name": "Seven of Coins",
+      "card3": "51",
+      "card3_name": "Two of Swords"
     }
   },
   "major": {
-    "single": "12",
-    "single_name":"Judgement",
+    "single": "14",
+    "single_name":"The High Priestess",
     "spread": {
-      "card1": "1",
-      "card1_name": "Wheel of Fortune",
-      "card2": "11",
-      "card2_name": "The Magician",
-      "card3": "15",
-      "card3_name": "The Empress"
+      "card1": "4",
+      "card1_name": "Death",
+      "card2": "1",
+      "card2_name": "Wheel of Fortune",
+      "card3": "19",
+      "card3_name": "The Chariot"
     }
   },
-  "last_updated": "2026-08-01T07:00:03.811Z"
+  "last_updated": "2026-08-02T07:00:09.262Z"
 }
