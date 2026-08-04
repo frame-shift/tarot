@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "36",
-    "single_name": "Ten of Coins",
+    "single": "65",
+    "single_name": "Two of Wands",
     "spread": {
-      "card1": "54",
-      "card1_name": "Five of Swords",
-      "card2": "14",
-      "card2_name": "The High Priestess",
-      "card3": "6",
-      "card3_name": "The Devil"
+      "card1": "43",
+      "card1_name": "Eight of Coins",
+      "card2": "55",
+      "card2_name": "Six of Swords",
+      "card3": "3",
+      "card3_name": "The Hanged Man"
     }
   },
   "major": {
-    "single": "18",
-    "single_name":"The Lovers",
+    "single": "5",
+    "single_name":"Temperance",
     "spread": {
-      "card1": "16",
-      "card1_name": "The Emperor",
-      "card2": "20",
-      "card2_name": "Strength",
-      "card3": "8",
-      "card3_name": "The Star"
+      "card1": "21",
+      "card1_name": "The Hermit",
+      "card2": "7",
+      "card2_name": "The Tower",
+      "card3": "11",
+      "card3_name": "The Magician"
     }
   },
-  "last_updated": "2026-08-03T07:00:14.042Z"
+  "last_updated": "2026-08-04T07:00:04.385Z"
 }
