@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "58",
-    "single_name": "Nine of Swords",
+    "single": "38",
+    "single_name": "Three of Coins",
     "spread": {
-      "card1": "29",
-      "card1_name": "Eight of Cups",
-      "card2": "67",
-      "card2_name": "Four of Wands",
-      "card3": "22",
-      "card3_name": "Ten of Cups"
+      "card1": "56",
+      "card1_name": "Seven of Swords",
+      "card2": "8",
+      "card2_name": "The Star",
+      "card3": "16",
+      "card3_name": "The Emperor"
     }
   },
   "major": {
     "single": "9",
     "single_name":"The Moon",
     "spread": {
-      "card1": "18",
-      "card1_name": "The Lovers",
-      "card2": "21",
-      "card2_name": "The Hermit",
-      "card3": "5",
-      "card3_name": "Temperance"
+      "card1": "15",
+      "card1_name": "The Empress",
+      "card2": "5",
+      "card2_name": "Temperance",
+      "card3": "2",
+      "card3_name": "Justice"
     }
   },
-  "last_updated": "2026-08-07T07:00:09.874Z"
+  "last_updated": "2026-08-08T07:00:02.018Z"
 }
