@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "56",
-    "single_name": "Seven of Swords",
+    "single": "23",
+    "single_name": "Two of Cups",
     "spread": {
-      "card1": "18",
-      "card1_name": "The Lovers",
-      "card2": "6",
-      "card2_name": "The Devil",
-      "card3": "75",
-      "card3_name": "Knight of Wands"
+      "card1": "52",
+      "card1_name": "Three of Swords",
+      "card2": "5",
+      "card2_name": "Temperance",
+      "card3": "9",
+      "card3_name": "The Moon"
     }
   },
   "major": {
-    "single": "17",
-    "single_name":"The Hierophant",
+    "single": "21",
+    "single_name":"The Hermit",
     "spread": {
-      "card1": "7",
-      "card1_name": "The Tower",
-      "card2": "16",
-      "card2_name": "The Emperor",
-      "card3": "4",
-      "card3_name": "Death"
+      "card1": "14",
+      "card1_name": "The High Priestess",
+      "card2": "10",
+      "card2_name": "The Sun",
+      "card3": "5",
+      "card3_name": "Temperance"
     }
   },
-  "last_updated": "2026-08-10T07:00:08.535Z"
+  "last_updated": "2026-08-11T07:00:08.258Z"
 }
