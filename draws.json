@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "20",
-    "single_name": "Strength",
+    "single": "51",
+    "single_name": "Two of Swords",
     "spread": {
-      "card1": "20",
-      "card1_name": "Strength",
-      "card2": "35",
-      "card2_name": "Queen of Cups",
-      "card3": "8",
-      "card3_name": "The Star"
+      "card1": "62",
+      "card1_name": "Page of Swords",
+      "card2": "52",
+      "card2_name": "Three of Swords",
+      "card3": "59",
+      "card3_name": "Ace of Swords"
     }
   },
   "major": {
-    "single": "1",
-    "single_name":"Wheel of Fortune",
+    "single": "8",
+    "single_name":"The Star",
     "spread": {
-      "card1": "8",
-      "card1_name": "The Star",
-      "card2": "4",
-      "card2_name": "Death",
-      "card3": "12",
-      "card3_name": "Judgement"
+      "card1": "13",
+      "card1_name": "The World",
+      "card2": "10",
+      "card2_name": "The Sun",
+      "card3": "19",
+      "card3_name": "The Chariot"
     }
   },
-  "last_updated": "2026-08-14T07:00:09.901Z"
+  "last_updated": "2026-08-15T07:00:08.655Z"
 }
