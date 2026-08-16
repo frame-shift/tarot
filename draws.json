@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "51",
-    "single_name": "Two of Swords",
+    "single": "44",
+    "single_name": "Nine of Coins",
     "spread": {
-      "card1": "62",
-      "card1_name": "Page of Swords",
-      "card2": "52",
-      "card2_name": "Three of Swords",
-      "card3": "59",
-      "card3_name": "Ace of Swords"
+      "card1": "58",
+      "card1_name": "Nine of Swords",
+      "card2": "28",
+      "card2_name": "Seven of Cups",
+      "card3": "0",
+      "card3_name": "The Fool"
     }
   },
   "major": {
-    "single": "8",
-    "single_name":"The Star",
+    "single": "4",
+    "single_name":"Death",
     "spread": {
-      "card1": "13",
-      "card1_name": "The World",
-      "card2": "10",
-      "card2_name": "The Sun",
-      "card3": "19",
-      "card3_name": "The Chariot"
+      "card1": "3",
+      "card1_name": "The Hanged Man",
+      "card2": "1",
+      "card2_name": "Wheel of Fortune",
+      "card3": "14",
+      "card3_name": "The High Priestess"
     }
   },
-  "last_updated": "2026-08-15T07:00:08.655Z"
+  "last_updated": "2026-08-16T07:00:14.416Z"
 }
