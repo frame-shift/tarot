@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "33",
-    "single_name": "Knight of Cups",
+    "single": "53",
+    "single_name": "Four of Swords",
     "spread": {
-      "card1": "24",
-      "card1_name": "Three of Cups",
-      "card2": "44",
-      "card2_name": "Nine of Coins",
-      "card3": "1",
-      "card3_name": "Wheel of Fortune"
+      "card1": "27",
+      "card1_name": "Six of Cups",
+      "card2": "30",
+      "card2_name": "Nine of Cups",
+      "card3": "19",
+      "card3_name": "The Chariot"
     }
   },
   "major": {
-    "single": "15",
-    "single_name":"The Empress",
+    "single": "20",
+    "single_name":"Strength",
     "spread": {
-      "card1": "19",
-      "card1_name": "The Chariot",
-      "card2": "5",
-      "card2_name": "Temperance",
-      "card3": "16",
-      "card3_name": "The Emperor"
+      "card1": "4",
+      "card1_name": "Death",
+      "card2": "19",
+      "card2_name": "The Chariot",
+      "card3": "18",
+      "card3_name": "The Lovers"
     }
   },
-  "last_updated": "2026-08-17T07:00:05.951Z"
+  "last_updated": "2026-08-18T07:00:10.168Z"
 }
