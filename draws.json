@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "53",
-    "single_name": "Four of Swords",
+    "single": "39",
+    "single_name": "Four of Coins",
     "spread": {
-      "card1": "27",
-      "card1_name": "Six of Cups",
-      "card2": "30",
-      "card2_name": "Nine of Cups",
-      "card3": "19",
-      "card3_name": "The Chariot"
+      "card1": "30",
+      "card1_name": "Nine of Cups",
+      "card2": "13",
+      "card2_name": "The World",
+      "card3": "63",
+      "card3_name": "Queen of Swords"
     }
   },
   "major": {
-    "single": "20",
-    "single_name":"Strength",
+    "single": "2",
+    "single_name":"Justice",
     "spread": {
-      "card1": "4",
-      "card1_name": "Death",
-      "card2": "19",
-      "card2_name": "The Chariot",
-      "card3": "18",
-      "card3_name": "The Lovers"
+      "card1": "11",
+      "card1_name": "The Magician",
+      "card2": "16",
+      "card2_name": "The Emperor",
+      "card3": "10",
+      "card3_name": "The Sun"
     }
   },
-  "last_updated": "2026-08-18T07:00:10.168Z"
+  "last_updated": "2026-08-19T07:00:10.880Z"
 }
