@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "62",
-    "single_name": "Page of Swords",
+    "single": "56",
+    "single_name": "Seven of Swords",
     "spread": {
-      "card1": "19",
-      "card1_name": "The Chariot",
-      "card2": "21",
-      "card2_name": "The Hermit",
-      "card3": "44",
-      "card3_name": "Nine of Coins"
+      "card1": "30",
+      "card1_name": "Nine of Cups",
+      "card2": "44",
+      "card2_name": "Nine of Coins",
+      "card3": "12",
+      "card3_name": "Judgement"
     }
   },
   "major": {
-    "single": "17",
-    "single_name":"The Hierophant",
+    "single": "4",
+    "single_name":"Death",
     "spread": {
-      "card1": "3",
-      "card1_name": "The Hanged Man",
-      "card2": "10",
-      "card2_name": "The Sun",
+      "card1": "20",
+      "card1_name": "Strength",
+      "card2": "9",
+      "card2_name": "The Moon",
       "card3": "15",
       "card3_name": "The Empress"
     }
   },
-  "last_updated": "2026-08-26T07:00:09.530Z"
+  "last_updated": "2026-08-27T07:00:09.625Z"
 }
