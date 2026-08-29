@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "16",
-    "single_name": "The Emperor",
+    "single": "14",
+    "single_name": "The High Priestess",
     "spread": {
-      "card1": "1",
-      "card1_name": "Wheel of Fortune",
-      "card2": "24",
-      "card2_name": "Three of Cups",
-      "card3": "26",
-      "card3_name": "Five of Cups"
+      "card1": "43",
+      "card1_name": "Eight of Coins",
+      "card2": "4",
+      "card2_name": "Death",
+      "card3": "2",
+      "card3_name": "Justice"
     }
   },
   "major": {
-    "single": "3",
-    "single_name":"The Hanged Man",
+    "single": "13",
+    "single_name":"The World",
     "spread": {
-      "card1": "19",
-      "card1_name": "The Chariot",
-      "card2": "0",
-      "card2_name": "The Fool",
-      "card3": "17",
-      "card3_name": "The Hierophant"
+      "card1": "16",
+      "card1_name": "The Emperor",
+      "card2": "4",
+      "card2_name": "Death",
+      "card3": "20",
+      "card3_name": "Strength"
     }
   },
-  "last_updated": "2026-08-28T07:00:10.166Z"
+  "last_updated": "2026-08-29T07:00:14.831Z"
 }
