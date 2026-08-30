@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "14",
-    "single_name": "The High Priestess",
+    "single": "54",
+    "single_name": "Five of Swords",
     "spread": {
-      "card1": "43",
-      "card1_name": "Eight of Coins",
-      "card2": "4",
-      "card2_name": "Death",
-      "card3": "2",
-      "card3_name": "Justice"
+      "card1": "42",
+      "card1_name": "Seven of Coins",
+      "card2": "74",
+      "card2_name": "King of Wands",
+      "card3": "40",
+      "card3_name": "Five of Coins"
     }
   },
   "major": {
-    "single": "13",
-    "single_name":"The World",
+    "single": "19",
+    "single_name":"The Chariot",
     "spread": {
-      "card1": "16",
-      "card1_name": "The Emperor",
-      "card2": "4",
-      "card2_name": "Death",
-      "card3": "20",
-      "card3_name": "Strength"
+      "card1": "13",
+      "card1_name": "The World",
+      "card2": "20",
+      "card2_name": "Strength",
+      "card3": "10",
+      "card3_name": "The Sun"
     }
   },
-  "last_updated": "2026-08-29T07:00:14.831Z"
+  "last_updated": "2026-08-30T07:00:13.739Z"
 }
