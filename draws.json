@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "75",
-    "single_name": "Knight of Wands",
+    "single": "76",
+    "single_name": "Page of Wands",
     "spread": {
-      "card1": "65",
-      "card1_name": "Two of Wands",
-      "card2": "68",
-      "card2_name": "Five of Wands",
-      "card3": "42",
-      "card3_name": "Seven of Coins"
+      "card1": "69",
+      "card1_name": "Six of Wands",
+      "card2": "45",
+      "card2_name": "Ace of Coins",
+      "card3": "7",
+      "card3_name": "The Tower"
     }
   },
   "major": {
-    "single": "0",
-    "single_name":"The Fool",
+    "single": "4",
+    "single_name":"Death",
     "spread": {
-      "card1": "21",
-      "card1_name": "The Hermit",
-      "card2": "16",
-      "card2_name": "The Emperor",
-      "card3": "19",
-      "card3_name": "The Chariot"
+      "card1": "6",
+      "card1_name": "The Devil",
+      "card2": "15",
+      "card2_name": "The Empress",
+      "card3": "2",
+      "card3_name": "Justice"
     }
   },
-  "last_updated": "2026-08-31T07:00:07.310Z"
+  "last_updated": "2026-09-01T07:00:07.546Z"
 }
