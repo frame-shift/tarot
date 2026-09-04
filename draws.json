@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "27",
-    "single_name": "Six of Cups",
+    "single": "77",
+    "single_name": "Queen of Wands",
     "spread": {
-      "card1": "14",
-      "card1_name": "The High Priestess",
-      "card2": "75",
-      "card2_name": "Knight of Wands",
-      "card3": "58",
-      "card3_name": "Nine of Swords"
-    }
-  },
-  "major": {
-    "single": "2",
-    "single_name":"Justice",
-    "spread": {
-      "card1": "12",
-      "card1_name": "Judgement",
-      "card2": "8",
-      "card2_name": "The Star",
+      "card1": "75",
+      "card1_name": "Knight of Wands",
+      "card2": "36",
+      "card2_name": "Ten of Coins",
       "card3": "15",
       "card3_name": "The Empress"
     }
   },
-  "last_updated": "2026-09-03T07:00:08.220Z"
+  "major": {
+    "single": "4",
+    "single_name":"Death",
+    "spread": {
+      "card1": "6",
+      "card1_name": "The Devil",
+      "card2": "4",
+      "card2_name": "Death",
+      "card3": "7",
+      "card3_name": "The Tower"
+    }
+  },
+  "last_updated": "2026-09-04T07:00:08.740Z"
 }
