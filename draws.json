@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "30",
-    "single_name": "Nine of Cups",
+    "single": "9",
+    "single_name": "The Moon",
     "spread": {
-      "card1": "47",
-      "card1_name": "Knight of Coins",
-      "card2": "34",
-      "card2_name": "Page of Cups",
-      "card3": "72",
-      "card3_name": "Nine of Wands"
+      "card1": "34",
+      "card1_name": "Page of Cups",
+      "card2": "32",
+      "card2_name": "King of Cups",
+      "card3": "13",
+      "card3_name": "The World"
     }
   },
   "major": {
-    "single": "15",
-    "single_name":"The Empress",
+    "single": "17",
+    "single_name":"The Hierophant",
     "spread": {
-      "card1": "7",
-      "card1_name": "The Tower",
-      "card2": "20",
-      "card2_name": "Strength",
-      "card3": "2",
-      "card3_name": "Justice"
+      "card1": "4",
+      "card1_name": "Death",
+      "card2": "16",
+      "card2_name": "The Emperor",
+      "card3": "5",
+      "card3_name": "Temperance"
     }
   },
-  "last_updated": "2026-09-12T07:00:07.542Z"
+  "last_updated": "2026-09-13T07:00:09.355Z"
 }
