@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "12",
-    "single_name": "Judgement",
+    "single": "13",
+    "single_name": "The World",
     "spread": {
-      "card1": "48",
-      "card1_name": "Page of Coins",
-      "card2": "46",
-      "card2_name": "King of Coins",
-      "card3": "20",
-      "card3_name": "Strength"
+      "card1": "76",
+      "card1_name": "Page of Wands",
+      "card2": "70",
+      "card2_name": "Seven of Wands",
+      "card3": "34",
+      "card3_name": "Page of Cups"
     }
   },
   "major": {
-    "single": "19",
-    "single_name":"The Chariot",
+    "single": "14",
+    "single_name":"The High Priestess",
     "spread": {
-      "card1": "17",
-      "card1_name": "The Hierophant",
-      "card2": "15",
-      "card2_name": "The Empress",
-      "card3": "6",
-      "card3_name": "The Devil"
+      "card1": "0",
+      "card1_name": "The Fool",
+      "card2": "19",
+      "card2_name": "The Chariot",
+      "card3": "15",
+      "card3_name": "The Empress"
     }
   },
-  "last_updated": "2026-09-17T07:00:09.380Z"
+  "last_updated": "2026-09-18T07:00:08.467Z"
 }
