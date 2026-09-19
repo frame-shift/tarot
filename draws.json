@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "13",
-    "single_name": "The World",
+    "single": "24",
+    "single_name": "Three of Cups",
     "spread": {
-      "card1": "76",
-      "card1_name": "Page of Wands",
-      "card2": "70",
-      "card2_name": "Seven of Wands",
-      "card3": "34",
-      "card3_name": "Page of Cups"
+      "card1": "6",
+      "card1_name": "The Devil",
+      "card2": "28",
+      "card2_name": "Seven of Cups",
+      "card3": "37",
+      "card3_name": "Two of Coins"
     }
   },
   "major": {
-    "single": "14",
-    "single_name":"The High Priestess",
+    "single": "3",
+    "single_name":"The Hanged Man",
     "spread": {
-      "card1": "0",
-      "card1_name": "The Fool",
+      "card1": "16",
+      "card1_name": "The Emperor",
       "card2": "19",
       "card2_name": "The Chariot",
-      "card3": "15",
-      "card3_name": "The Empress"
+      "card3": "10",
+      "card3_name": "The Sun"
     }
   },
-  "last_updated": "2026-09-18T07:00:08.467Z"
+  "last_updated": "2026-09-19T07:00:11.444Z"
 }
