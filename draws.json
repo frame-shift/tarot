@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "20",
-    "single_name": "Strength",
+    "single": "49",
+    "single_name": "Queen of Coins",
     "spread": {
-      "card1": "21",
-      "card1_name": "The Hermit",
-      "card2": "18",
-      "card2_name": "The Lovers",
+      "card1": "54",
+      "card1_name": "Five of Swords",
+      "card2": "33",
+      "card2_name": "Knight of Cups",
+      "card3": "38",
+      "card3_name": "Three of Coins"
+    }
+  },
+  "major": {
+    "single": "5",
+    "single_name":"Temperance",
+    "spread": {
+      "card1": "18",
+      "card1_name": "The Lovers",
+      "card2": "5",
+      "card2_name": "Temperance",
       "card3": "15",
       "card3_name": "The Empress"
     }
   },
-  "major": {
-    "single": "13",
-    "single_name":"The World",
-    "spread": {
-      "card1": "3",
-      "card1_name": "The Hanged Man",
-      "card2": "7",
-      "card2_name": "The Tower",
-      "card3": "21",
-      "card3_name": "The Hermit"
-    }
-  },
-  "last_updated": "2026-09-20T07:00:06.744Z"
+  "last_updated": "2026-09-21T07:00:11.745Z"
 }
