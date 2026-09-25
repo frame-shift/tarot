@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "76",
-    "single_name": "Page of Wands",
+    "single": "49",
+    "single_name": "Queen of Coins",
     "spread": {
-      "card1": "41",
-      "card1_name": "Six of Coins",
-      "card2": "31",
-      "card2_name": "Ace of Cups",
-      "card3": "26",
-      "card3_name": "Five of Cups"
+      "card1": "38",
+      "card1_name": "Three of Coins",
+      "card2": "77",
+      "card2_name": "Queen of Wands",
+      "card3": "48",
+      "card3_name": "Page of Coins"
     }
   },
   "major": {
-    "single": "18",
-    "single_name":"The Lovers",
+    "single": "10",
+    "single_name":"The Sun",
     "spread": {
-      "card1": "6",
-      "card1_name": "The Devil",
-      "card2": "17",
-      "card2_name": "The Hierophant",
-      "card3": "2",
-      "card3_name": "Justice"
+      "card1": "11",
+      "card1_name": "The Magician",
+      "card2": "1",
+      "card2_name": "Wheel of Fortune",
+      "card3": "9",
+      "card3_name": "The Moon"
     }
   },
-  "last_updated": "2026-09-24T07:00:10.601Z"
+  "last_updated": "2026-09-25T07:00:12.685Z"
 }
