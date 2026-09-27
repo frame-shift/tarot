@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "63",
-    "single_name": "Queen of Swords",
+    "single": "35",
+    "single_name": "Queen of Cups",
     "spread": {
-      "card1": "31",
-      "card1_name": "Ace of Cups",
-      "card2": "10",
-      "card2_name": "The Sun",
-      "card3": "52",
-      "card3_name": "Three of Swords"
+      "card1": "6",
+      "card1_name": "The Devil",
+      "card2": "5",
+      "card2_name": "Temperance",
+      "card3": "33",
+      "card3_name": "Knight of Cups"
     }
   },
   "major": {
-    "single": "3",
-    "single_name":"The Hanged Man",
+    "single": "4",
+    "single_name":"Death",
     "spread": {
-      "card1": "19",
-      "card1_name": "The Chariot",
-      "card2": "18",
-      "card2_name": "The Lovers",
+      "card1": "15",
+      "card1_name": "The Empress",
+      "card2": "8",
+      "card2_name": "The Star",
       "card3": "12",
       "card3_name": "Judgement"
     }
   },
-  "last_updated": "2026-09-26T07:00:08.890Z"
+  "last_updated": "2026-09-27T07:00:06.511Z"
 }
