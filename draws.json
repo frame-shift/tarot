@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "62",
-    "single_name": "Page of Swords",
+    "single": "52",
+    "single_name": "Three of Swords",
     "spread": {
-      "card1": "62",
-      "card1_name": "Page of Swords",
-      "card2": "49",
-      "card2_name": "Queen of Coins",
-      "card3": "20",
-      "card3_name": "Strength"
+      "card1": "66",
+      "card1_name": "Three of Wands",
+      "card2": "51",
+      "card2_name": "Two of Swords",
+      "card3": "47",
+      "card3_name": "Knight of Coins"
     }
   },
   "major": {
-    "single": "6",
-    "single_name":"The Devil",
+    "single": "4",
+    "single_name":"Death",
     "spread": {
-      "card1": "5",
-      "card1_name": "Temperance",
-      "card2": "1",
-      "card2_name": "Wheel of Fortune",
-      "card3": "20",
-      "card3_name": "Strength"
+      "card1": "13",
+      "card1_name": "The World",
+      "card2": "15",
+      "card2_name": "The Empress",
+      "card3": "5",
+      "card3_name": "Temperance"
     }
   },
-  "last_updated": "2026-10-02T07:00:08.747Z"
+  "last_updated": "2026-10-03T07:00:01.972Z"
 }
