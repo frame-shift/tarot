@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "48",
-    "single_name": "Page of Coins",
+    "single": "63",
+    "single_name": "Queen of Swords",
     "spread": {
-      "card1": "10",
-      "card1_name": "The Sun",
-      "card2": "22",
-      "card2_name": "Ten of Cups",
-      "card3": "55",
-      "card3_name": "Six of Swords"
+      "card1": "5",
+      "card1_name": "Temperance",
+      "card2": "19",
+      "card2_name": "The Chariot",
+      "card3": "10",
+      "card3_name": "The Sun"
     }
   },
   "major": {
-    "single": "19",
-    "single_name":"The Chariot",
+    "single": "18",
+    "single_name":"The Lovers",
     "spread": {
-      "card1": "10",
-      "card1_name": "The Sun",
-      "card2": "16",
-      "card2_name": "The Emperor",
-      "card3": "2",
-      "card3_name": "Justice"
+      "card1": "0",
+      "card1_name": "The Fool",
+      "card2": "11",
+      "card2_name": "The Magician",
+      "card3": "6",
+      "card3_name": "The Devil"
     }
   },
-  "last_updated": "2026-10-06T07:00:04.748Z"
+  "last_updated": "2026-10-07T07:00:08.002Z"
 }
