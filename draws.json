@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "74",
-    "single_name": "King of Wands",
+    "single": "53",
+    "single_name": "Four of Swords",
     "spread": {
-      "card1": "69",
-      "card1_name": "Six of Wands",
-      "card2": "38",
-      "card2_name": "Three of Coins",
-      "card3": "49",
-      "card3_name": "Queen of Coins"
+      "card1": "29",
+      "card1_name": "Eight of Cups",
+      "card2": "37",
+      "card2_name": "Two of Coins",
+      "card3": "9",
+      "card3_name": "The Moon"
     }
   },
   "major": {
-    "single": "3",
-    "single_name":"The Hanged Man",
+    "single": "6",
+    "single_name":"The Devil",
     "spread": {
-      "card1": "11",
-      "card1_name": "The Magician",
-      "card2": "6",
-      "card2_name": "The Devil",
-      "card3": "4",
-      "card3_name": "Death"
+      "card1": "20",
+      "card1_name": "Strength",
+      "card2": "13",
+      "card2_name": "The World",
+      "card3": "19",
+      "card3_name": "The Chariot"
     }
   },
-  "last_updated": "2026-10-15T07:00:11.266Z"
+  "last_updated": "2026-10-16T07:00:09.735Z"
 }
