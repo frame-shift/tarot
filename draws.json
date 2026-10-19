@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "5",
-    "single_name": "Temperance",
+    "single": "77",
+    "single_name": "Queen of Wands",
     "spread": {
-      "card1": "21",
-      "card1_name": "The Hermit",
-      "card2": "33",
-      "card2_name": "Knight of Cups",
-      "card3": "69",
-      "card3_name": "Six of Wands"
+      "card1": "4",
+      "card1_name": "Death",
+      "card2": "26",
+      "card2_name": "Five of Cups",
+      "card3": "34",
+      "card3_name": "Page of Cups"
     }
   },
   "major": {
-    "single": "13",
-    "single_name":"The World",
+    "single": "7",
+    "single_name":"The Tower",
     "spread": {
-      "card1": "20",
-      "card1_name": "Strength",
-      "card2": "13",
-      "card2_name": "The World",
-      "card3": "19",
-      "card3_name": "The Chariot"
+      "card1": "8",
+      "card1_name": "The Star",
+      "card2": "14",
+      "card2_name": "The High Priestess",
+      "card3": "12",
+      "card3_name": "Judgement"
     }
   },
-  "last_updated": "2026-10-18T07:00:02.424Z"
+  "last_updated": "2026-10-19T07:00:07.018Z"
 }
