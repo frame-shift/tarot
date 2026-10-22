@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "37",
-    "single_name": "Two of Coins",
+    "single": "9",
+    "single_name": "The Moon",
     "spread": {
-      "card1": "26",
-      "card1_name": "Five of Cups",
-      "card2": "47",
-      "card2_name": "Knight of Coins",
-      "card3": "21",
-      "card3_name": "The Hermit"
+      "card1": "23",
+      "card1_name": "Two of Cups",
+      "card2": "24",
+      "card2_name": "Three of Cups",
+      "card3": "4",
+      "card3_name": "Death"
     }
   },
   "major": {
-    "single": "21",
-    "single_name":"The Hermit",
+    "single": "11",
+    "single_name":"The Magician",
     "spread": {
-      "card1": "19",
-      "card1_name": "The Chariot",
-      "card2": "13",
-      "card2_name": "The World",
-      "card3": "12",
-      "card3_name": "Judgement"
+      "card1": "4",
+      "card1_name": "Death",
+      "card2": "15",
+      "card2_name": "The Empress",
+      "card3": "14",
+      "card3_name": "The High Priestess"
     }
   },
-  "last_updated": "2026-10-21T07:00:10.343Z"
+  "last_updated": "2026-10-22T07:00:11.991Z"
 }
