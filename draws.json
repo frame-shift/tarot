@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "25",
-    "single_name": "Four of Cups",
+    "single": "62",
+    "single_name": "Page of Swords",
     "spread": {
-      "card1": "1",
-      "card1_name": "Wheel of Fortune",
-      "card2": "73",
-      "card2_name": "Ace of Wands",
-      "card3": "23",
-      "card3_name": "Two of Cups"
+      "card1": "15",
+      "card1_name": "The Empress",
+      "card2": "37",
+      "card2_name": "Two of Coins",
+      "card3": "64",
+      "card3_name": "Ten of Wands"
     }
   },
   "major": {
-    "single": "3",
-    "single_name":"The Hanged Man",
+    "single": "6",
+    "single_name":"The Devil",
     "spread": {
-      "card1": "0",
-      "card1_name": "The Fool",
-      "card2": "16",
-      "card2_name": "The Emperor",
-      "card3": "1",
-      "card3_name": "Wheel of Fortune"
+      "card1": "8",
+      "card1_name": "The Star",
+      "card2": "21",
+      "card2_name": "The Hermit",
+      "card3": "18",
+      "card3_name": "The Lovers"
     }
   },
-  "last_updated": "2026-10-25T07:00:01.290Z"
+  "last_updated": "2026-10-26T07:00:13.345Z"
 }
