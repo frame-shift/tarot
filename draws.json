@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "77",
-    "single_name": "Queen of Wands",
+    "single": "71",
+    "single_name": "Eight of Wands",
     "spread": {
-      "card1": "17",
-      "card1_name": "The Hierophant",
-      "card2": "53",
-      "card2_name": "Four of Swords",
-      "card3": "0",
-      "card3_name": "The Fool"
+      "card1": "26",
+      "card1_name": "Five of Cups",
+      "card2": "34",
+      "card2_name": "Page of Cups",
+      "card3": "71",
+      "card3_name": "Eight of Wands"
     }
   },
   "major": {
-    "single": "10",
-    "single_name":"The Sun",
+    "single": "1",
+    "single_name":"Wheel of Fortune",
     "spread": {
-      "card1": "6",
-      "card1_name": "The Devil",
-      "card2": "3",
-      "card2_name": "The Hanged Man",
-      "card3": "8",
-      "card3_name": "The Star"
+      "card1": "0",
+      "card1_name": "The Fool",
+      "card2": "14",
+      "card2_name": "The High Priestess",
+      "card3": "5",
+      "card3_name": "Temperance"
     }
   },
-  "last_updated": "2026-10-28T07:00:11.098Z"
+  "last_updated": "2026-10-29T07:00:05.918Z"
 }
