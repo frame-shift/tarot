@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "57",
-    "single_name": "Eight of Swords",
+    "single": "9",
+    "single_name": "The Moon",
     "spread": {
-      "card1": "6",
-      "card1_name": "The Devil",
-      "card2": "27",
-      "card2_name": "Six of Cups",
-      "card3": "60",
-      "card3_name": "King of Swords"
+      "card1": "19",
+      "card1_name": "The Chariot",
+      "card2": "37",
+      "card2_name": "Two of Coins",
+      "card3": "63",
+      "card3_name": "Queen of Swords"
     }
   },
   "major": {
-    "single": "2",
-    "single_name":"Justice",
+    "single": "15",
+    "single_name":"The Empress",
     "spread": {
-      "card1": "4",
-      "card1_name": "Death",
-      "card2": "21",
-      "card2_name": "The Hermit",
-      "card3": "10",
-      "card3_name": "The Sun"
+      "card1": "7",
+      "card1_name": "The Tower",
+      "card2": "12",
+      "card2_name": "Judgement",
+      "card3": "14",
+      "card3_name": "The High Priestess"
     }
   },
-  "last_updated": "2026-11-05T08:00:10.909Z"
+  "last_updated": "2026-11-06T08:00:10.018Z"
 }
