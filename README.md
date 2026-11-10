@@ -19,7 +19,7 @@ Cards are drawn as follows via [Make](https://www.make.com/):
 	 - *If RANDOM.ORG cannot be reached:* [Make](https://www.make.com/) is used as a fallback to generate the two sets as above
 3. Each of the four decks (`all1`, `all2`, `maj1`, `maj2`) is parsed into an array, maintaining each deck's shuffled order
 4. Single cards and three-card spreads are drawn from each deck as described in [Magic](#magic)
-5. The card draws are pushed here every day at 03:00 `America/New_York` [time](https://www.timeanddate.com/time/zone/usa/new-york).
+5. Card draws are pushed here every day at 03:00 `America/New_York` [time](https://www.timeanddate.com/time/zone/usa/new-york)
 
 ## Files
 - `draws.json`: A JSON containing single and spread draws across all cards or Major Arcana only; also includes a last updated timestamp
