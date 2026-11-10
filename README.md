@@ -1,7 +1,7 @@
 # Daily Tarot Card Draw
-This is a dataset of random integers generated for daily tarot card draws, originally designed for an applet on [Tidbyt](https://github.com/tidbyt/community).
+This is a dataset of random integers generated for daily tarot card draws, originally designed for an applet on [Tidbyt](https://github.com/tidbyt/community/tree/main/apps/tarotcards).
 
-Each number represents an index of potential cards for every tarot card (i.e., 0-77) or just cards from the Major Arcana (i.e., 0-21). The number represents a specific card name as designated in `card_names.csv`.
+Each number represents an index of potential cards for every tarot card (i.e., 0-77) or just cards from the Major Arcana (i.e., 0-21). Each number represents a specific card name as designated in `card_names.csv`.
 
 The output `draws.json` holds the result of the card draws. Both the entire tarot deck and a Major Arcana deck contain draws for a single card and a three-card spread.
 
