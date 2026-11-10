@@ -8,12 +8,12 @@ The output `draws.json` holds the result of the card draws. Both the entire taro
 ## Process
 Cards are drawn as follows via [Make](https://www.make.com/):
 1. Two "decks" of *all* tarot cards are shuffled
-   - Two decks containing every tarot card are randomly and independently shuffled via [RANDOM.ORG](https://www.random.org/integer-sets/?sets=2&num=78&min=0&max=77&order=index&format=html&rnd=new)
+   - Two decks containing every tarot card are randomly and independently shuffled via [RANDOM.ORG](https://www.random.org/integer-sets/?sets=2&num=78&min=0&max=77&seqnos=on&order=index&format=plain&rnd=new)
      - **Deck `all1`:** Used to draw a single card
      - **Deck `all2`:** Used to draw three cards for the spread
 	 - *If RANDOM.ORG cannot be reached:* [Make](https://www.make.com/) is used as a fallback to generate the two sets as above
 2. Two "decks" of only *Major Arcana* cards are shuffled
-   - Two decks containing only the Major Arcana are randomly and independently shuffled via [RANDOM.ORG](https://www.random.org/integer-sets/?sets=2&num=22&min=0&max=21&order=index&format=html&rnd=new)
+   - Two decks containing only the Major Arcana are randomly and independently shuffled via [RANDOM.ORG](https://www.random.org/integer-sets/?sets=2&num=22&min=0&max=21&seqnos=on&order=index&format=plain&rnd=new)
      - **Deck `maj1`:** Used to draw a single card
      - **Deck `maj2`:** Used to draw three cards for the spread
 	 - *If RANDOM.ORG cannot be reached:* [Make](https://www.make.com/) is used as a fallback to generate the two sets as above
