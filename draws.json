@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "48",
-    "single_name": "Page of Coins",
+    "single": "21",
+    "single_name": "The Hermit",
     "spread": {
-      "card1": "59",
-      "card1_name": "Ace of Swords",
-      "card2": "60",
-      "card2_name": "King of Swords",
-      "card3": "28",
-      "card3_name": "Seven of Cups"
+      "card1": "28",
+      "card1_name": "Seven of Cups",
+      "card2": "19",
+      "card2_name": "The Chariot",
+      "card3": "60",
+      "card3_name": "King of Swords"
     }
   },
   "major": {
-    "single": "8",
-    "single_name":"The Star",
+    "single": "14",
+    "single_name":"The High Priestess",
     "spread": {
-      "card1": "12",
-      "card1_name": "Judgement",
-      "card2": "0",
-      "card2_name": "The Fool",
-      "card3": "20",
-      "card3_name": "Strength"
+      "card1": "19",
+      "card1_name": "The Chariot",
+      "card2": "8",
+      "card2_name": "The Star",
+      "card3": "2",
+      "card3_name": "Justice"
     }
   },
-  "last_updated": "2026-11-09T08:00:11.331Z"
+  "last_updated": "2026-11-10T08:00:07.819Z"
 }
