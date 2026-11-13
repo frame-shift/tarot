@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "24",
-    "single_name": "Three of Cups",
+    "single": "8",
+    "single_name": "The Star",
     "spread": {
-      "card1": "70",
-      "card1_name": "Seven of Wands",
-      "card2": "24",
-      "card2_name": "Three of Cups",
-      "card3": "6",
-      "card3_name": "The Devil"
+      "card1": "9",
+      "card1_name": "The Moon",
+      "card2": "27",
+      "card2_name": "Six of Cups",
+      "card3": "8",
+      "card3_name": "The Star"
     }
   },
   "major": {
-    "single": "2",
-    "single_name": "Justice",
+    "single": "1",
+    "single_name": "Wheel of Fortune",
     "spread": {
-      "card1": "2",
-      "card1_name": "Justice",
-      "card2": "4",
-      "card2_name": "Death",
-      "card3": "7",
-      "card3_name": "The Tower"
+      "card1": "16",
+      "card1_name": "The Emperor",
+      "card2": "11",
+      "card2_name": "The Magician",
+      "card3": "20",
+      "card3_name": "Strength"
     }
   },
-  "last_updated": "2026-11-12T08:00:05.525Z"
+  "last_updated": "2026-11-13T08:00:12.006Z"
 }
