@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "8",
-    "single_name": "The Star",
+    "single": "5",
+    "single_name": "Temperance",
     "spread": {
-      "card1": "9",
-      "card1_name": "The Moon",
-      "card2": "27",
-      "card2_name": "Six of Cups",
-      "card3": "8",
-      "card3_name": "The Star"
+      "card1": "32",
+      "card1_name": "King of Cups",
+      "card2": "52",
+      "card2_name": "Three of Swords",
+      "card3": "33",
+      "card3_name": "Knight of Cups"
     }
   },
   "major": {
-    "single": "1",
-    "single_name": "Wheel of Fortune",
+    "single": "7",
+    "single_name": "The Tower",
     "spread": {
-      "card1": "16",
-      "card1_name": "The Emperor",
-      "card2": "11",
-      "card2_name": "The Magician",
-      "card3": "20",
-      "card3_name": "Strength"
+      "card1": "7",
+      "card1_name": "The Tower",
+      "card2": "3",
+      "card2_name": "The Hanged Man",
+      "card3": "21",
+      "card3_name": "The Hermit"
     }
   },
-  "last_updated": "2026-11-13T08:00:12.006Z"
+  "last_updated": "2026-11-14T08:00:02.162Z"
 }
