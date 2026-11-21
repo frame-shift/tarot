@@ -1,27 +1,27 @@
 {
   "all": {
-    "single": "28",
-    "single_name": "Seven of Cups",
+    "single": "15",
+    "single_name": "The Empress",
     "spread": {
-      "card1": "69",
-      "card1_name": "Six of Wands",
-      "card2": "57",
-      "card2_name": "Eight of Swords",
-      "card3": "31",
-      "card3_name": "Ace of Cups"
+      "card1": "13",
+      "card1_name": "The World",
+      "card2": "39",
+      "card2_name": "Four of Coins",
+      "card3": "67",
+      "card3_name": "Four of Wands"
     }
   },
   "major": {
-    "single": "17",
-    "single_name": "The Hierophant",
+    "single": "12",
+    "single_name": "Judgement",
     "spread": {
-      "card1": "14",
-      "card1_name": "The High Priestess",
-      "card2": "6",
-      "card2_name": "The Devil",
-      "card3": "15",
-      "card3_name": "The Empress"
+      "card1": "11",
+      "card1_name": "The Magician",
+      "card2": "7",
+      "card2_name": "The Tower",
+      "card3": "13",
+      "card3_name": "The World"
     }
   },
-  "last_updated": "2026-11-20T08:00:06.799Z"
+  "last_updated": "2026-11-21T08:00:02.357Z"
 }
